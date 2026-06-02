@@ -1,20 +1,21 @@
 {
-  "name": "Project Synapse",
-  "short_name": "Synapse",
-  "start_url": "/",
+  "name": "SYNAPSE",
+  "short_name": "SYNAPSE",
+  "description": "Multi-LLM Debate & Answer Synthesis Platform",
+  "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#000000",
+  "background_color": "#080b12",
+  "theme_color": "#00d4ff",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "image.jpg",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/jpeg"
     },
     {
-      "src": "icon-512.png",
+      "src": "image.jpg",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/jpeg"
     }
   ]
 }
